@@ -1,6 +1,6 @@
 # N-Reinas
 El problema de las n-reinas, inicialmente planteado para 8 reinas en un típico tablero de ajedrez, es un problema al cual se le puede dar solución utilizando backtracking
->El problema consiste en hallar el número máximo de posibles posiciones en las cuales n reinas puedan colocarse en un tablero de nxn sin que estás se amenacen
+>El problema consiste en hallar el número máximo de posibles posiciones en las cuales n reinas puedan colocarse en un tablero de nxn sin que estas se amenacen
 
 ### Pasos que recorre el algoritmo:
 * **Coloca una reina**
