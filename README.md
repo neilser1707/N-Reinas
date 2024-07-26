@@ -13,8 +13,6 @@ El problema de las n-reinas, inicialmente planteado para 8 reinas en un típico 
 * **Instalación**
 * **Uso**
 * **Características**
-* **Contribución**
-* **Licencia**
 
 #### Instalación
 >1. Clonar el repositorio: git clone
